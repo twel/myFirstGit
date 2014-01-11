@@ -6,7 +6,7 @@
     </list>
     <ignored path="myFirstGit.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="388072a2-6308-48c0-a05d-f86fd4ba1c4c" time="1389397340618" ignored="false" />
+    <file path="/Dummy.txt" changelist="388072a2-6308-48c0-a05d-f86fd4ba1c4c" time="1389398410482" ignored="false" />
     <file path="$PROJECT_DIR$/../scjp/.idea/workspace.xml" changelist="388072a2-6308-48c0-a05d-f86fd4ba1c4c" time="1389396667359" ignored="false" />
     <file path="/MyFirstGit.java" changelist="388072a2-6308-48c0-a05d-f86fd4ba1c4c" time="1389397293148" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -328,7 +328,11 @@
       <created>1389397348405</created>
       <updated>1389397348405</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="adding public static void main">
+      <created>1389398418499</created>
+      <updated>1389398418499</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
